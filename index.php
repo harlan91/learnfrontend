@@ -1,7 +1,7 @@
 <?php include('inc_header.php');?>
 <!-- middle -->
 <section>
-	middle Harlan ----
+	middle Harlan ---- woy
 </section> 
 <!-- end of middle -->
 <?php include('inc_footer.php');?>
